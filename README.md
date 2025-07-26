@@ -1,4 +1,5 @@
 # 🛒 E-commerce Sales-Performance & User Interaction Dashboard 
+This repository contains a Power BI dashboard that delivers actionable insights into user behavior and sales performance across an e-commerce platform. It is designed to help business stakeholders, marketers, and analysts make informed decisions by visualizing key behavioral and transactional metrics.
 📊 Dashboard Highlights
 🧭 User Engagement Metrics
 Track Sessions, Page Views, and Bounce Rates over time
